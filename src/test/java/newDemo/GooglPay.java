@@ -12,7 +12,7 @@ public class GooglPay
 	  WebDriver driver=new ChromeDriver();
 	  driver.close();
 	  Thread.sleep(100);
-	  
+	  System.out.println("hi good morning");
 	  
   }
 }
