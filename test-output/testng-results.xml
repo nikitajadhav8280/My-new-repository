@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-19T00:59:54 IST" name="Suite" finished-at="2023-07-19T01:00:25 IST" duration-ms="30626">
+    <groups>
+    </groups>
+    <test started-at="2023-07-19T00:59:54 IST" name="Test" finished-at="2023-07-19T01:00:25 IST" duration-ms="30626">
+      <class name="newDemo.paytm">
+        <test-method signature="paytmtest()[pri:0, instance:newDemo.paytm@3a93b025]" started-at="2023-07-19T01:00:06 IST" name="paytmtest" finished-at="2023-07-19T01:00:17 IST" duration-ms="11070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paytmtest -->
+      </class> <!-- newDemo.paytm -->
+      <class name="newDemo.PhonePay">
+        <test-method signature="PhonePaytest()[pri:0, instance:newDemo.PhonePay@35cabb2a]" started-at="2023-07-19T01:00:17 IST" name="PhonePaytest" finished-at="2023-07-19T01:00:25 IST" duration-ms="7929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PhonePaytest -->
+      </class> <!-- newDemo.PhonePay -->
+      <class name="newDemo.GooglPay">
+        <test-method signature="GooglePaytest()[pri:0, instance:newDemo.GooglPay@222545dc]" started-at="2023-07-19T00:59:54 IST" name="GooglePaytest" finished-at="2023-07-19T01:00:06 IST" duration-ms="11447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GooglePaytest -->
+      </class> <!-- newDemo.GooglPay -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
